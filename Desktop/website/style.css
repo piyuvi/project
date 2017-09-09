@@ -1,0 +1,46 @@
+ 
+ .frametext
+ {
+ display: inline; 
+ float:left;  
+ font: 400 50px/1.5 'Pacifico', Helvetica, sans-serif;
+  color:brown;
+ }
+
+ #logo-container img {
+   width: 100%;
+   height: auto;
+}
+
+ .logoimg{
+ 	float: left;
+ }
+
+ .footer{
+ 	 position:absolute;
+   width:100%;
+   bottom: -3050px;
+   height:100px;  
+ }
+
+ a{
+  text-decoration: none;
+  color:brown;
+}
+
+a:hover{
+  background-color:antiquewhite;
+  border: 2px dotted;
+  border-radius: 10px;
+}
+
+dd{
+	text-align: left;
+	margin-top: 10px;
+}
+
+ dl{}
+
+ dt{
+ 	font: 400 40px/0.8 'Cookie', Helvetica, sans-serif;
+ }
